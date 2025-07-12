@@ -83,7 +83,7 @@
 |--------|-------------|------------|------|
 | 🎥 **VideoTube** | YouTube clone with infinite scroll and nested comments | React, Tailwind, Redux, YouTube API | [Live](https://video-tube-orpin.vercel.app/) |
 | 📋 **ProjectPilot** | Task manager with JWT, Google Auth & email alerts | MERN, Redux Toolkit, Nodemailer | [Live](https://project-pilot-om-jaiswals-projects-56697ee4.vercel.app/) |
-| 💬 **VaaniSetu** | A real-time chat app with authentication, online status, and Socket.io | MERN, Socket.io, Zustand, Tailwind CSS, DaisyUI | [Live](https://chat-app-qjn5.onrender.com/login) |
+| 💬 **VaaniSetu** | A real-time chat app with authentication, online status, and Socket.io | MERN, Socket.io, Zustand, Tailwind CSS, DaisyUI | [Live](https://chat-app-qjn5.onrender.com/) |
 | 📄 **CertiSure** | Certificate generator with PWA features | MERN, JWT, Responsive Design | [Live](https://certisure.vercel.app/) |
 
 ---
