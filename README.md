@@ -22,34 +22,59 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="120" height="100">
+    <td align="center" width="110" height="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/><b>JavaScript</b>
     </td>
-    <td align="center" width="120" height="100">
+    <td align="center" width="110" height="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/><b>TypeScript</b>
     </td>
-    <td align="center" width="120" height="100">
+    <td align="center" width="110" height="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/><b>React</b>
     </td>
-    <td align="center" width="120" height="100">
+    <td align="center" width="110" height="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br/><b>Next.js</b>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="120" height="100">
+    <td align="center" width="110" height="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/><b>Node.js</b>
     </td>
-    <td align="center" width="120" height="100">
+    <td align="center" width="110" height="100">
       <img src="https://img.shields.io/badge/Express.js-grey?style=flat-square&logo=express&logoColor=white" /><br/><b>Express</b>
     </td>
-    <td align="center" width="120" height="100">
+    <td align="center" width="110" height="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br/><b>MongoDB</b>
     </td>
-    <td align="center" width="120" height="100">
+    <td align="center" width="110" height="100">
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /><br/><b>Tailwind</b>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="110" height="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br/><b>C++</b>
+    </td>
+    <td align="center" width="110" height="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/><b>Python</b>
+    </td>
+    <td align="center" width="110" height="100">
+      <img src="https://img.shields.io/badge/Framer_Motion-EF5CFF?style=flat-square&logo=framer&logoColor=white" /><br/><b>Framer Motion</b>
+    </td>
+    <td align="center" width="110" height="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/><b>Docker</b>
+    </td>
+    <td align="center" width="110" height="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/><b>PostgreSQL</b>
+    </td>
+    <td align="center" width="110" height="100">
+      <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" /><br/><b>Firebase</b>
+    </td>
+    <td align="center" width="110" height="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/><b>GitHub</b>
+    </td>
+    <td align="center" width="110" height="100">
+      <img src="https://img.shields.io/badge/Postman-orange?style=flat-square&logo=postman&logoColor=white" /><br/><b>Postman</b>
+    </td>
+  </tr>
 </table>
+
 
 
 ---
