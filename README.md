@@ -111,6 +111,29 @@
 
 ---
 
+## 🔝 Top Repositories
+
+<div align="center">
+
+<a href="https://github.com/omjaiswal45/VaaniSetu" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omjaiswal45&repo=VaaniSetu&theme=radical" />
+</a>
+
+<a href="https://github.com/omjaiswal45/VideoTube" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omjaiswal45&repo=VideoTube&theme=radical" />
+</a>
+
+<br/>
+
+<a href="https://github.com/omjaiswal45/ProjectPilot" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omjaiswal45&repo=ProjectPilot&theme=radical" />
+</a>
+
+<a href="https://github.com/omjaiswal45/CertiSure" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omjaiswal45&repo=CertiSure&theme=radical" />
+</a>
+
+</div>
 
 ## 📫 Let's Connect!
 
