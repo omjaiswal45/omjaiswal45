@@ -1,4 +1,13 @@
-## Hi there 👋
+### 📊 GitHub Stats
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=omjaiswal45&show_icons=true&theme=radical)
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=omjaiswal45&theme=dark&hide_border=true)](https://git.io/streak-stats)
+### 📘 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omjaiswal45&layout=compact&theme=radical)
+### 📈 Contribution Activity
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=omjaiswal45&theme=github-compact)](https://github.com/omjaiswal45)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=omjaiswal45)
+
 
 <!--
 **omjaiswal45/omjaiswal45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
