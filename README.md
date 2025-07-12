@@ -75,8 +75,6 @@
   </tr>
 </table>
 
-
-
 ---
 
 ## 🌟 Featured Projects
@@ -85,6 +83,7 @@
 |--------|-------------|------------|------|
 | 🎥 **VideoTube** | YouTube clone with infinite scroll and nested comments | React, Tailwind, Redux, YouTube API | [Live](https://video-tube-orpin.vercel.app/) |
 | 📋 **ProjectPilot** | Task manager with JWT, Google Auth & email alerts | MERN, Redux Toolkit, Nodemailer | [Live](https://project-pilot-om-jaiswals-projects-56697ee4.vercel.app/) |
+| 💬 **VaaniSetu** | A real-time chat app with authentication, online status, and Socket.io | MERN, Socket.io, Zustand, Tailwind CSS, DaisyUI | [Live](https://chat-app-qjn5.onrender.com/login) |
 | 📄 **CertiSure** | Certificate generator with PWA features | MERN, JWT, Responsive Design | [Live](https://certisure.vercel.app/) |
 
 ---
@@ -109,6 +108,14 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omjaiswal45&theme=radical&column=4&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
