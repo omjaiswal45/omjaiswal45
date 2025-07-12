@@ -111,13 +111,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omjaiswal45&theme=radical&column=4&margin-w=15&margin-h=15" />
-</p>
-
----
 
 ## 📫 Let's Connect!
 
