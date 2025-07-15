@@ -9,7 +9,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech in Electrical Engineering from **BIET Jhansi** (2020–2024)  
 - 💼 SDE Intern at [Car Wizard Pvt Ltd](https://www.vahanhelp.in/)  
 - 💬 Ask me about **React, Node, MongoDB, APIs, Tailwind CSS, JWT**  
 - 🔥 Currently building: **[VaaniSetu](https://github.com/omjaiswal45)** — A Real-Time Chat App  
