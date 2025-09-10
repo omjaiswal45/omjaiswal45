@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 SDE Intern at [Car Wizard Pvt Ltd](https://www.vahanhelp.in/)  
+- 💼 SDE Intern at  
 - 💬 Ask me about **React, Node, MongoDB, APIs, Tailwind CSS, JWT**  
 - 🔥 Currently building: **[VaaniSetu](https://github.com/omjaiswal45)** — A Real-Time Chat App  
 - 🌐 Portfolio: [portfolio-five-steel-63.vercel.app](https://portfolio-five-steel-63.vercel.app/)  
