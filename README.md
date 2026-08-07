@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Jaiswal</h1>
-<h3 align="center">Full Stack Engineer & AI Developer from India 🇮🇳</h3>
+<h3 align="center">Full Stack Engineer & AI Developer </h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=Full+Stack+%7C+AI+%7C+Agentic+Systems;LangGraph+%7C+RAG+%7C+LLM+Engineer;React+%7C+Node.js+%7C+Python+%7C+FastAPI;Building+Production+AI+Applications" alt="Typing SVG" />
 </p>
